@@ -1,0 +1,9 @@
+a <- c(1, 2, 3)
+b<-a + 1
+view(b)
+
+c<-a/2
+view(c)
+
+d<-a == c(1, 99, 3) #comparing two vectors
+view(d)
